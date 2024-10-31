@@ -5,3 +5,4 @@ Next run "main.py" in the same directory as the rest of the project from the com
 Then follow the directions that prints to the console. (Press enter to start)
 
 Since the program uses image recognition you should be able to open BTD6 at any point and it will work. Keep in mind that if you move the cursor while the program is menuing the program may break and will need to be restarted. 
+Press Control-C in the command prompt to stop the program.
